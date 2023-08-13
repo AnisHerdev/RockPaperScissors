@@ -1,5 +1,5 @@
 # StonePaperScissors
-This is a python program that allows you to play stone paper scissors which is one of the most famous game all over the world.
+This is a python program that allows you to play stone paper scissors which is one of the most famous game all over the world.<br>
 You can either choose to play with the comuter or just grab a friend to play this with.
 
 # Steps to follow:
