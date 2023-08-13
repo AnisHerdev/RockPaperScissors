@@ -3,6 +3,7 @@ This is a python program that allows you to play stone paper scissors which is o
 You can either choose to play with the comuter or just grab a friend to play this with.
 
 ### Steps to follow:
+***
 1.Type in the number of players.     
 2.Type for how many points you want to pay for.     
 3.Type in the player's name/names.     
