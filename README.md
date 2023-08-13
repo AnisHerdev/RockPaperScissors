@@ -1,4 +1,9 @@
 # StonePaperScissors
-This is a python program that allows you to play stone paper scissors with the computer.
+This is a python program that allows you to play stone paper scissors which is one of the most famous game all over the world.
+You can either choose to play with the comuter or just grab a friend to play this with.
 
-You just got to type in 
+# Steps to follow:
+1.Type in the number of players.
+2.Type for how many points you want to pay for.
+3.Type in the player's name/names.
+4.You can choose stone, paper or scissor.
